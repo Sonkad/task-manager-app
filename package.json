@@ -13,7 +13,7 @@
     "react-dom": "^19.0.0",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4",
-    "homepage": "https://github.com/Sonkad/task-manager-app.git"
+    "homepage": "https://sonkad.github.io/task-manager-app"
   },
   "scripts": {
     "start": "react-scripts start",
